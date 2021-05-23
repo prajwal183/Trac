@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309790133659",
+    "firebase_url": "https://trac-app-33528.firebaseio.com",
+    "project_id": "trac-app-33528",
+    "storage_bucket": "trac-app-33528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309790133659:android:b97bb9c150b5601099a53e",
+        "android_client_info": {
+          "package_name": "com.maarutitechnologies.trac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309790133659-nesag3pgolb83cv9uvnsu50g3aimg8s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAla8sGYWSJ8ArsbmEffMVD6TiogjRC4MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309790133659-nesag3pgolb83cv9uvnsu50g3aimg8s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
